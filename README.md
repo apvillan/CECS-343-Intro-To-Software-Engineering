@@ -1,6 +1,6 @@
 # CECS-343-Intro-To-Software-Engineering
 
-This repository includes the term project information and files for this class. The term project consists of us designing an ordering system for a "client" (Professor Vong) and has four milestones.
+This repository includes the term project information and files for this class. The term project consists of four milestones where we design an ordering system for a "client" (Professor Vong).
 
 Milestone 1
   - Due February 22 2017
